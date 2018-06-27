@@ -10,6 +10,9 @@ The excercises are meant to be used with the EduTools Plugin for IntelliJ & Andr
 2. Transition to the exercises and work through basic syntax
 3. Finish with slides for additional resources
 
+# Get Started
+To get started, download or clone this repo to a local working directory. You can then follow the instructions included in `setup.txt` within this repo.
+
 # Setup Video
 Setup instructions are included in the repo, but I've also created a short video to walkthrough the setup process.
 
