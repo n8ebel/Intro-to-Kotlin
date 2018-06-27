@@ -1,0 +1,17 @@
+# EduTools Plugin Install Guide
+- Make sure you have Android Studio 3.0+ installed
+- Open Android Studio
+- Go to "Plugin" settings
+- Click on “Install JetBrains Plugin”
+- Search for “EduTools”
+- Click "Install"
+- Restart Android Studio once it’s done
+- Select “Learner”
+- Select “Start”
+
+# Setup Workshop Code
+- Open Android Studio with EduTools Plugin enabled
+- Select “Browse Courses”
+- Click the green arrow icon to “Import Local Course”
+- Navigate to the workshop archive file named "exercises.zip"
+- Select and then click "Join"
